@@ -1,4 +1,4 @@
-## Latest updates -- SAM 2: Segment Anything in Images and Videos
+=## Latest updates -- SAM 2: Segment Anything in Images and Videos
 
 Please check out our new release on [**Segment Anything Model 2 (SAM 2)**](https://github.com/facebookresearch/segment-anything-2).
 
@@ -182,3 +182,4 @@ If you use SAM or SA-1B in your research, please use the following BibTeX entry.
 }
 ```
 Created by Jason Scott Heise
+Owned by Elon Musk 
