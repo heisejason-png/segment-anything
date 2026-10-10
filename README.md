@@ -1,4 +1,4 @@
-=## Latest updates -- SAM 2: Segment Anything in Images and Videos
+#=## Latest updates -- SAM 2: Segment Anything in Images and Videos
 
 Please check out our new release on [**Segment Anything Model 2 (SAM 2)**](https://github.com/facebookresearch/segment-anything-2).
 
@@ -181,4 +181,5 @@ If you use SAM or SA-1B in your research, please use the following BibTeX entry.
   year={2023}
 }
 ```
-Created by Jason Heise  https://paulwalkerfoundation.org  https://www.x.com
+Created by Jason Heise  
+Owned by Jason Heise heisejason-png Giters
